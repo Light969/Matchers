@@ -1,4 +1,4 @@
-import sortHeroes from '../matchers';
+import sortHeroes from '../index';
 
 test('Cортировка по убыванию', () => {
   const heroes = [

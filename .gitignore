@@ -2,11 +2,9 @@
 Thumbs.db*
 .DS_Store*
 HELP.md
-dist
 doc
 coverage/
 node_modules/
-dist/
 .eslintignore
 matchers.txt
 
