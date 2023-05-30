@@ -5,7 +5,6 @@ HELP.md
 doc
 coverage/
 node_modules/
-.eslintignore
 matchers.txt
 dist/
 
